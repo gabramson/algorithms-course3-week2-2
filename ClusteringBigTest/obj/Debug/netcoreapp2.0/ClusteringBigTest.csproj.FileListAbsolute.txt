@@ -1,0 +1,16 @@
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\bin\Debug\netcoreapp2.0\ClusteringBigTest.deps.json
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\bin\Debug\netcoreapp2.0\ClusteringBigTest.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\bin\Debug\netcoreapp2.0\ClusteringBigTest.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\bin\Debug\netcoreapp2.0\ClusteringBigTest.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\bin\Debug\netcoreapp2.0\ClusteringBigTest.pdb
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\bin\Debug\netcoreapp2.0\ClusterizeLib.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\bin\Debug\netcoreapp2.0\ClusterizeLib.pdb
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\obj\Debug\netcoreapp2.0\ClusteringBigTest.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\obj\Debug\netcoreapp2.0\ClusteringBigTest.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\obj\Debug\netcoreapp2.0\ClusteringBigTest.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\obj\Debug\netcoreapp2.0\ClusteringBigTest.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\obj\Debug\netcoreapp2.0\ClusteringBigTest.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBigTest\obj\Debug\netcoreapp2.0\ClusteringBigTest.pdb
