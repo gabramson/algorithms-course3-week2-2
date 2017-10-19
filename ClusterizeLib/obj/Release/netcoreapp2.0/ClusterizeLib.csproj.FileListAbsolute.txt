@@ -1,0 +1,9 @@
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusterizeLib\bin\Release\netcoreapp2.0\ClusterizeLib.deps.json
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusterizeLib\bin\Release\netcoreapp2.0\ClusterizeLib.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusterizeLib\bin\Release\netcoreapp2.0\ClusterizeLib.pdb
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusterizeLib\obj\Release\netcoreapp2.0\ClusterizeLib.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusterizeLib\obj\Release\netcoreapp2.0\ClusterizeLib.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusterizeLib\obj\Release\netcoreapp2.0\ClusterizeLib.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusterizeLib\obj\Release\netcoreapp2.0\ClusterizeLib.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusterizeLib\obj\Release\netcoreapp2.0\ClusterizeLib.pdb
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusterizeLib\obj\Release\netcoreapp2.0\ClusterizeLib.csprojResolveAssemblyReference.cache

@@ -9,3 +9,5 @@ C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\obj\Debug\netco
 C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\obj\Debug\netcoreapp2.0\ClusteringBig.AssemblyInfo.cs
 C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\obj\Debug\netcoreapp2.0\ClusteringBig.dll
 C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\obj\Debug\netcoreapp2.0\ClusteringBig.pdb
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\bin\Debug\netcoreapp2.0\ClusterizeLib.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\bin\Debug\netcoreapp2.0\ClusterizeLib.pdb

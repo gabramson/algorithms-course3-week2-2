@@ -1,0 +1,13 @@
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\bin\Release\netcoreapp2.0\ClusteringBig.deps.json
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\bin\Release\netcoreapp2.0\ClusteringBig.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\bin\Release\netcoreapp2.0\ClusteringBig.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\bin\Release\netcoreapp2.0\ClusteringBig.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\bin\Release\netcoreapp2.0\ClusteringBig.pdb
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\bin\Release\netcoreapp2.0\ClusterizeLib.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\bin\Release\netcoreapp2.0\ClusterizeLib.pdb
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\obj\Release\netcoreapp2.0\ClusteringBig.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\obj\Release\netcoreapp2.0\ClusteringBig.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\obj\Release\netcoreapp2.0\ClusteringBig.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\obj\Release\netcoreapp2.0\ClusteringBig.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\obj\Release\netcoreapp2.0\ClusteringBig.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-2\ClusteringBig\obj\Release\netcoreapp2.0\ClusteringBig.pdb
